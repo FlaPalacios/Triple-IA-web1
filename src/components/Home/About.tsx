@@ -13,25 +13,25 @@ export const About: React.FC = () => {
                         {title}
                         <span className="absolute bottom-0 left-0 w-1/3 h-1 bg-secondary rounded-full"></span>
                     </h2>
-                    <p className="text-lg text-gray-600 leading-relaxed mb-6">
+                    <p className="text-lg text-gray-600 leading-relaxed mb-6 text-justify">
                         {description}
                     </p>
                     <div className="grid grid-cols-2 gap-6 mt-8">
                         <div className="p-4 bg-gray-50 rounded-lg border-l-4 border-secondary">
                             <h4 className="font-bold text-primary text-xl mb-1">Estrategia</h4>
-                            <p className="text-sm text-gray-500">Diseño estratégico de proyectos de I+D+i</p>
+                            <p className="text-sm text-gray-500">Diseño estratégico y estructuración de proyectos de I+D+i alineados a objetivos institucionales.</p>
                         </div>
                         <div className="p-4 bg-gray-50 rounded-lg border-l-4 border-accent">
                             <h4 className="font-bold text-primary text-xl mb-1">Tecnología & IA</h4>
-                            <p className="text-sm text-gray-500">Capaz de resolver problemas complejos</p>
+                            <p className="text-sm text-gray-500">Soluciones avanzadas para la toma de decisiones, automatización y optimización de procesos complejos.</p>
                         </div>
                         <div className="p-4 bg-gray-50 rounded-lg border-l-4 border-accent">
                             <h4 className="font-bold text-primary text-xl mb-1">Data-Driven</h4>
-                            <p className="text-sm text-gray-500">Resultados medibles, basados en evidencia y escalables</p>
+                            <p className="text-sm text-gray-500">Resultados medibles, basados en evidencia, con modelos escalables y replicables.</p>
                         </div>
                         <div className="p-4 bg-gray-50 rounded-lg border-l-4 border-secondary">
                             <h4 className="font-bold text-primary text-xl mb-1">Impacto</h4>
-                            <p className="text-sm text-gray-500">Económico, Social y Ambiental</p>
+                            <p className="text-sm text-gray-500">Proyectos con impacto económico, social y ambiental claramente definido y medible.</p>
                         </div>
                     </div>
                 </div>

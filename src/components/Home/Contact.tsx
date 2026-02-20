@@ -11,8 +11,7 @@ export const Contact: React.FC = () => {
                 <div>
                     <h2 className="text-4xl font-bold mb-8 text-primary">Empecemos a trabajar juntos</h2>
                     <p className="text-xl text-gray-600 mb-10 leading-relaxed">
-                        ¿Listo para transformar tu negocio con Inteligencia Artificial?
-                        Agenda una reunión con nosotros o llena el formulario para un diagnóstico inicial gratuito.
+                        ¿Listo para transformar tu organización con inteligencia artificial, innovación y datos?
                     </p>
 
                     <div className="flex flex-col sm:flex-row gap-6 mb-12">

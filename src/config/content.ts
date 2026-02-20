@@ -11,12 +11,12 @@ export const content = {
         name: "TRIPLE IA CONSULTORES",
         slogan: "Innovación, Transformación Digital e Inteligencia Artificial",
         description: "Somos una firma de consultoría orientada a innovación, transformación digital, inteligencia artificial y ciencia de datos.",
-        email: "tripleia_consultores@gmail.com",
-        phone: "+51 981 190 691", // Placeholder or from previous knowledge if any? User didn't specify number, I'll use a generic or +51 9xx xxx xxx. Wait, I'll use +51 999 999 999 and let them update if they want.
-        location: "Lima, Perú",
+        email: "contacto@tripleiaconsultores.com",
+        phone: "+51 991 762 127",
+        location: "Lima, Perú - Madrid, España",
         schedule: "Lunes a Viernes, 9:00 AM - 6:00 PM",
         socials: {
-            instagram: "#",
+            instagram: "https://www.instagram.com/triple_ia_consultores",
             linkedin: "https://www.linkedin.com/company/triple-ia-consultores/posts/?feedView=all",
             tiktok: "https://www.tiktok.com/@triple.ia.innovation?lang=es"
         }
@@ -37,50 +37,53 @@ export const content = {
     },
     about: {
         title: "Quiénes Somos",
-        description: "Somos una consultora especializada en formulación y ejecución de proyectos para organizaciones públicas y privadas. Tenemos 3 pilares: Innovación abierta, investigación aplicada e inteligencia artificial para resolver problemas complejos con tecnología y generando un triple impacto (económico, social y ambiental). Asimismo, queremos ser el aliado de las organizaciones para que aprovechen al máximo los fondos concursables y desarrollen proyectos tecnológicos con excelencia.",
+        description: "Somos una firma de consultoría especializada en el diseño, formulación y ejecución de proyectos de innovación, investigación aplicada e inteligencia artificial para organizaciones públicas y privadas. Trabajamos bajo un enfoque integral basado en tres pilares estratégicos: Innovación abierta, para conectar desafíos reales con soluciones tecnológicas viables. Investigación aplicada, orientada a resultados concretos y transferencia de valor. Inteligencia artificial y ciencia de datos, para resolver problemas complejos con precisión y escalabilidad. Nuestro propósito es ser el aliado estratégico de las organizaciones en la captación y gestión de fondos concursables, así como en el desarrollo de proyectos tecnológicos de alto impacto, generando valor económico, social y ambiental con estándares de excelencia.",
         image: quienesSomos,
     },
+
+
+    //-----------------------------------SERVICIOS Links Formularios----------------------------------------
     services: [
         {
             title: "Identificación de oportunidades de financiamiento",
-            description: "Scouting de fondos nacionales e internacionales para I+D+i.",
+            description: "Scouting estratégico de fondos nacionales e internacionales para proyectos de I+D+i.",
             icon: Search,
             formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSdJ01aBL2teu4nzlagS8mWp7s-VOxxd4V0wNDnwbKmYlFtyVw/viewform?usp=header", // Placeholder
         },
         {
             title: "Formulación de proyectos",
-            description: "Estructuración técnica y económica de iniciativas de innovación.",
+            description: "Diseño técnico, económico y estratégico de propuestas competitivas, alineadas a las bases de fondos concursables y objetivos institucionales.",
             icon: LayoutDashboard,
             formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSdJ01aBL2teu4nzlagS8mWp7s-VOxxd4V0wNDnwbKmYlFtyVw/viewform?usp=header", // Placeholder
         },
         {
             title: "Asesoría y ejecución de proyectos financiados",
-            description: "Acompañamiento en la gestión y cumplimiento de fondos adjudicados.",
+            description: "Acompañamiento integral en la gestión, ejecución, monitoreo y cumplimiento de hitos técnicos y financieros de proyectos adjudicados.",
             icon: Rocket,
             formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSdJ01aBL2teu4nzlagS8mWp7s-VOxxd4V0wNDnwbKmYlFtyVw/viewform?usp=header", // Placeholder
         },
         {
             title: "Capacitación en Innovación e IA",
-            description: "Talleres especializados para el fortalecimiento de capacidades.",
+            description: "Programas y talleres especializados para el fortalecimiento de capacidades en innovación, IA y toma de decisiones basadas en datos.",
             icon: GraduationCap,
-            formUrl: "https://docs.google.com/forms/d/e/1FAIpQLScldxc2B_Og7UQuKkTrzz7appZEC2iK0iShpIDfT9z31fhh8Q/viewform?usp=dialog", // Placeholder
+            formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSctG8ZkZjgvpZoaENxs0qllW4bKHCGfKDW1KewT9dULzS1gnA/viewform?usp=header", // Placeholder
         },
         {
             title: "Consultorías especializadas en IA",
-            description: "Diseño e implementación de soluciones basadas en datos.",
+            description: "Diseño e implementación de soluciones analíticas, modelos predictivos y sistemas inteligentes orientados a resultados de negocio.",
             icon: BrainCircuit,
-            formUrl: "https://docs.google.com/forms/d/e/1FAIpQLScldxc2B_Og7UQuKkTrzz7appZEC2iK0iShpIDfT9z31fhh8Q/viewform?usp=dialog", // Placeholder
+            formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSctG8ZkZjgvpZoaENxs0qllW4bKHCGfKDW1KewT9dULzS1gnA/viewform?usp=header", // Placeholder
         },
     ],
     projects: [
         {
-            title: "S/ 20 millones captados en fondos no reembolsables para proyectos de I+D+i",
-            description: "Visualización en tiempo real de KPIs operativos para optimización de recursos.",
+            title: "Más de S/ 20 millones captados en fondos no reembolsables",
+            description: "Para proyectos de investigación, desarrollo tecnológico e innovación (I+D+i), a nivel nacional e internacional.",
             image: img1,
         },
         {
-            title: "10 organizaciones con ahorros y eficiencias comprobadas en procesos operativos",
-            description: "Modelo de forecasting para proyección de demanda y ventas.",
+            title: "Más de 10 organizaciones con ahorros y eficiencias comprobadas",
+            description: "Optimización de procesos operativos mediante analítica avanzada, automatización y modelos predictivos.",
             image: img2,
         },
         // Add more mock projects as needed
@@ -91,17 +94,17 @@ export const content = {
     },
     observatory: {
         title: "Observatorio Global de Proyectos",
-        description: "Explora nuestros dashboards interactivos para visualizar el impacto de la inversión en ciencia, tecnología e innovación. Datos actualizados para la toma de decisiones estratégicas.",
+        description: "Accede a dashboards interactivos que permiten analizar, monitorear y visualizar el impacto de la inversión en ciencia, tecnología e innovación.",
         dashboards: [
             {
                 title: "Análisis PROCIENCIA",
-                description: "Análisis detallado de concursos del Programa Nacional de Investigación Científica, desarrollo tecnológico y de innovación tecnológica.",
+                description: "Análisis detallado y seguimiento estratégico de concursos del Programa Nacional de Investigación Científica y Estudios Avanzados.",
                 image: prociencia,
                 url: "https://lookerstudio.google.com/u/0/reporting/d83fe444-ee04-42fe-adf1-13dbdfea575b/page/p_moit94wc0d", // Placeholder for dashboard URL
             },
             {
                 title: "Análisis PROINNOVATE",
-                description: "Seguimiento integral de programas de innovación productiva, validación técnica y empaquetamiento comercial.",
+                description: "Análisis detallado y seguimiento estratégico de concursos del Programa Nacional de Desarrollo Tecnológico e Innovación.",
                 image: proinnovate,
                 url: "https://lookerstudio.google.com/u/0/reporting/53139621-9244-4220-b970-795d0084496b/page/p_b4jsfh7k0d", // Placeholder for dashboard URL
             }

@@ -9,7 +9,7 @@ export const Projects: React.FC = () => {
             <div className="text-center mb-16">
                 <h2 className="text-3xl font-bold text-primary mb-4">Casos de Éxito</h2>
                 <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-                    Proyectos reales que demuestran nuestra capacidad técnica.
+                    Resultados reales que demuestran nuestra capacidad técnica.
                 </p>
             </div>
 
