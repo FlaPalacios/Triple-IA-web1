@@ -48,19 +48,19 @@ export const content = {
             title: "Identificación de oportunidades de financiamiento",
             description: "Scouting estratégico de fondos nacionales e internacionales para proyectos de I+D+i.",
             icon: Search,
-            formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSdJ01aBL2teu4nzlagS8mWp7s-VOxxd4V0wNDnwbKmYlFtyVw/viewform?usp=header", // Placeholder
+            formUrl: "https://docs.google.com/forms/d/e/1FAIpQLScmas4AkBME72cIwBotqgyetak-ZviToymptO1fAFRRoj0uLg/viewform?usp=header", // Placeholder
         },
         {
             title: "Formulación de proyectos",
             description: "Diseño técnico, económico y estratégico de propuestas competitivas, alineadas a las bases de fondos concursables y objetivos institucionales.",
             icon: LayoutDashboard,
-            formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSdJ01aBL2teu4nzlagS8mWp7s-VOxxd4V0wNDnwbKmYlFtyVw/viewform?usp=header", // Placeholder
+            formUrl: "https://docs.google.com/forms/d/e/1FAIpQLScmas4AkBME72cIwBotqgyetak-ZviToymptO1fAFRRoj0uLg/viewform?usp=header", // Placeholder
         },
         {
             title: "Asesoría y ejecución de proyectos financiados",
             description: "Acompañamiento integral en la gestión, ejecución, monitoreo y cumplimiento de hitos técnicos y financieros de proyectos adjudicados.",
             icon: Rocket,
-            formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSdJ01aBL2teu4nzlagS8mWp7s-VOxxd4V0wNDnwbKmYlFtyVw/viewform?usp=header", // Placeholder
+            formUrl: "https://docs.google.com/forms/d/e/1FAIpQLScmas4AkBME72cIwBotqgyetak-ZviToymptO1fAFRRoj0uLg/viewform?usp=header", // Placeholder
         },
         {
             title: "Capacitación en Innovación e IA",
